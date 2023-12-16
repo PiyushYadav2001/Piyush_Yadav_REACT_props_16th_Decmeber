@@ -1,0 +1,12 @@
+.protfolio{
+  
+    text-align: center;
+    padding: 40px;
+    background-color: palevioletred;
+    
+}
+.img{
+    display: flex;
+    gap: 20px;
+    padding-left: 20%;
+}

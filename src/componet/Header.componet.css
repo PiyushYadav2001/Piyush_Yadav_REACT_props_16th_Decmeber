@@ -1,0 +1,11 @@
+.header{
+    display: flex;
+     background-color: green;
+}
+ul{
+    display: flex;
+    gap: 20px;
+     margin-top: 30px;
+    margin-left:50vw ;
+    list-style: none;
+}
